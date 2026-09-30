@@ -1,0 +1,28 @@
+var json_MSelenChoisuel_15 = {
+"type": "FeatureCollection",
+"name": "MSelenChoisuel_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bossman HQ", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71199, "Longitude": 156.39854 }, "geometry": { "type": "Point", "coordinates": [ 156.398536, -6.711985 ] } },
+{ "type": "Feature", "properties": { "Name": "STCL", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71293, "Longitude": 156.3986 }, "geometry": { "type": "Point", "coordinates": [ 156.3986, -6.712932 ] } },
+{ "type": "Feature", "properties": { "Name": "KER", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.70799, "Longitude": 156.39635 }, "geometry": { "type": "Point", "coordinates": [ 156.39635, -6.707988 ] } },
+{ "type": "Feature", "properties": { "Name": "TMLS 6", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71262, "Longitude": 156.39842 }, "geometry": { "type": "Point", "coordinates": [ 156.398418, -6.712617 ] } },
+{ "type": "Feature", "properties": { "Name": "Blissful Shop", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71169, "Longitude": 156.39869 }, "geometry": { "type": "Point", "coordinates": [ 156.398692, -6.711687 ] } },
+{ "type": "Feature", "properties": { "Name": "Taro Toy Shop", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71178, "Longitude": 156.39869 }, "geometry": { "type": "Point", "coordinates": [ 156.398692, -6.711777 ] } },
+{ "type": "Feature", "properties": { "Name": "JVS Store", "Access type": "M-Selen", "Location": "Taro", "Province": "Choisuel Province", "Latitude": -6.71147, "Longitude": 156.39869 }, "geometry": { "type": "Point", "coordinates": [ 156.398692, -6.711467 ] } },
+{ "type": "Feature", "properties": { "Name": "Naset Kido", "Access type": "M-Selen", "Location": "Sasamunga Vge", "Province": "Choisuel Province", "Latitude": -7.04124, "Longitude": 156.76343 }, "geometry": { "type": "Point", "coordinates": [ 156.763434, -7.041243 ] } },
+{ "type": "Feature", "properties": { "Name": "Danny Shop", "Access type": "M-Selen", "Location": "Sasamunga Vge", "Province": "Choisuel Province", "Latitude": -7.03562, "Longitude": 156.7627 }, "geometry": { "type": "Point", "coordinates": [ 156.7627, -7.03562 ] } },
+{ "type": "Feature", "properties": { "Name": "Batena 777 Shop", "Access type": "M-Selen", "Location": "Sasamunga Vge", "Province": "Choisuel Province", "Latitude": -7.03436, "Longitude": 156.76242 }, "geometry": { "type": "Point", "coordinates": [ 156.762415, -7.034357 ] } },
+{ "type": "Feature", "properties": { "Name": "GF3 Enterprise", "Access type": "M-Selen", "Location": "Sasamunga Vge", "Province": "Choisuel Province", "Latitude": -7.03238, "Longitude": 156.7623 }, "geometry": { "type": "Point", "coordinates": [ 156.762301, -7.032383 ] } },
+{ "type": "Feature", "properties": { "Name": "Moli Parish", "Access type": "M-Selen", "Location": "Moli Parish Island", "Province": null, "Latitude": -6.82833, "Longitude": 156.52093 }, "geometry": { "type": "Point", "coordinates": [ 156.52093, -6.828333 ] } },
+{ "type": "Feature", "properties": { "Name": "AM1", "Access type": "M-Selen", "Location": "Moli ", "Province": null, "Latitude": -6.82652, "Longitude": 156.52182 }, "geometry": { "type": "Point", "coordinates": [ 156.521815, -6.826522 ] } },
+{ "type": "Feature", "properties": { "Name": "Poliso Store", "Access type": "M-Selen", "Location": "Supizae", "Province": "Choisuel Province", "Latitude": -6.69674, "Longitude": 156.39688 }, "geometry": { "type": "Point", "coordinates": [ 156.396884, -6.69674 ] } },
+{ "type": "Feature", "properties": { "Name": "ZDV Store", "Access type": "M-Selen", "Location": "Supizae", "Province": "Choisuel Province", "Latitude": -6.69801, "Longitude": 156.39756 }, "geometry": { "type": "Point", "coordinates": [ 156.397563, -6.698007 ] } },
+{ "type": "Feature", "properties": { "Name": "L. L Shop", "Access type": "M-Selen", "Location": "Pangoe Village", "Province": "Choisuel Province", "Latitude": -6.99244, "Longitude": 157.10541 }, "geometry": { "type": "Point", "coordinates": [ 157.10541, -6.992436 ] } },
+{ "type": "Feature", "properties": { "Name": "Amos Lapo", "Access type": "M-Selen", "Location": "Pangoe Village", "Province": "Choisuel Province", "Latitude": -6.99442, "Longitude": 157.10643 }, "geometry": { "type": "Point", "coordinates": [ 157.106432, -6.994418 ] } },
+{ "type": "Feature", "properties": { "Name": "Aromelatu", "Access type": "M-Selen", "Location": "Pangoe Village", "Province": "Choisuel Province", "Latitude": -6.98759, "Longitude": 157.10767 }, "geometry": { "type": "Point", "coordinates": [ 157.10767, -6.987592 ] } },
+{ "type": "Feature", "properties": { "Name": "Freeman", "Access type": "M-Selen", "Location": "Vuraqo", "Province": "Choisuel Province", "Latitude": -6.64485, "Longitude": 156.58472 }, "geometry": { "type": "Point", "coordinates": [ 156.584716, -6.64485 ] } },
+{ "type": "Feature", "properties": { "Name": "Waepa", "Access type": "M-Selen", "Location": "Supizae", "Province": "Choisuel Province", "Latitude": -6.70422, "Longitude": 156.39851 }, "geometry": { "type": "Point", "coordinates": [ 156.398514, -6.704216 ] } },
+{ "type": "Feature", "properties": { "Name": "Friendly Shop", "Access type": "M-Selen", "Location": "Taro Island", "Province": "Choisuel Province", "Latitude": -6.71313, "Longitude": 156.39904 }, "geometry": { "type": "Point", "coordinates": [ 156.399041, -6.713131 ] } }
+]
+}

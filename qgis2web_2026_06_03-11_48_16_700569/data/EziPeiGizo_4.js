@@ -1,0 +1,9 @@
+var json_EziPeiGizo_4 = {
+"type": "FeatureCollection",
+"name": "EziPeiGizo_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Agent Name": "Ezipei(Leleana Lodge)", "Location": "Gizo", "Latitude": -8.1069, "Longitude": 156.84064 }, "geometry": { "type": "Point", "coordinates": [ 156.84064, -8.1069 ] } },
+{ "type": "Feature", "properties": { "Agent Name": "Ezipei(Solomon Post Branch)", "Location": "Gizo", "Latitude": -8.10346, "Longitude": 156.84189 }, "geometry": { "type": "Point", "coordinates": [ 156.84189, -8.10346 ] } }
+]
+}
